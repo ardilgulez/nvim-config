@@ -15,4 +15,7 @@ require('lazy').setup({
     require 'plugins.neotree',
     require 'plugins.lualine',
     require 'plugins.colortheme',
+    require 'plugins.treesitter',
+    require 'plugins.telescope',
+    require 'plugins.lspconfig',
 })

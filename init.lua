@@ -12,12 +12,15 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup({
+	require("plugins.alpha"),
 	require("plugins.autocomplete"),
 	require("plugins.autoformat"),
 	require("plugins.colortheme"),
 	require("plugins.gitsigns"),
+	require("plugins.indent"),
 	require("plugins.lspconfig"),
 	require("plugins.lualine"),
+	require("plugins.misc"),
 	require("plugins.neotree"),
 	require("plugins.telescope"),
 	require("plugins.treesitter"),

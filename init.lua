@@ -15,6 +15,7 @@ require("lazy").setup({
 	require("plugins.autocomplete"),
 	require("plugins.autoformat"),
 	require("plugins.colortheme"),
+	require("plugins.gitsigns"),
 	require("plugins.lspconfig"),
 	require("plugins.lualine"),
 	require("plugins.neotree"),

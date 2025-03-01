@@ -16,7 +16,7 @@ require("lazy").setup({
 	require("plugins.autocomplete"),
 	require("plugins.autoformat"),
 	require("plugins.blink"),
-	require("plugins.colortheme"),
+	require("plugins.colortheme_catppuccin"),
 	require("plugins.gitsigns"),
 	require("plugins.indent"),
 	require("plugins.lspconfig"),

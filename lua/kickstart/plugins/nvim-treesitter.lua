@@ -21,6 +21,7 @@ return {
         'python',
         'astro',
         'liquid',
+        'json',
       },
       -- Autoinstall languages that are not installed
       auto_install = true,

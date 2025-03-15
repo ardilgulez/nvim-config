@@ -221,7 +221,12 @@ return {
         ts_ls = {},
         tailwindcss = {},
         --
+        kotlin_language_server = {},
+
+        astro = {},
+        ltex = {},
         eslint = {},
+        shopify_theme_ls = {},
 
         lua_ls = {
           -- cmd = { ... },

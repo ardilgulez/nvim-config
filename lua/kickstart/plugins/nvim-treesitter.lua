@@ -18,6 +18,9 @@ return {
         'typescript',
         'vim',
         'vimdoc',
+        'python',
+        'astro',
+        'liquid',
       },
       -- Autoinstall languages that are not installed
       auto_install = true,
